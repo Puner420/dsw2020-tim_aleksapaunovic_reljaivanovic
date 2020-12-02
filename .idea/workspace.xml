@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a214937-5607-47ab-b586-a8165f7e7975" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsw2020-tim_aleksapaunovic_reljaivanovic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lombok.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dsw2020-tim_markoedelman_aleksapaunovic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/app/AppCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/app/AppCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/app/ErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/app/ErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/errorHandlere/ErrorHadnlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/errorHandler/ErrorHadnlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/errorHandlere/ErrorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/errorHandler/ErrorType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/errorHandlere/MyError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/errorHandler/MyError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/SwingGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/SwingGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/controller/NewProjectAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/controller/NewProjectAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/tree/view/RuTreeImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/tree/view/RuTreeImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/view/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/view/repoView/ProjectView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsw/rudok/gui/swing/view/repoView/ProjectView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l6Fizts9BpzN320kEmdYcdlQnP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/lombok.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Puner\Desktop\INTELLIJ\dsw2020-tim_aleksapaunovic_reljaivanovic\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppCore" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dsw.rudok.app.AppCore" />
+      <module name="dsw2020-tim_aleksapaunovic_reljaivanovic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a214937-5607-47ab-b586-a8165f7e7975" name="Default Changelist" comment="" />
+      <created>1606909764681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606909764681</updated>
+      <workItem from="1606909768215" duration="235000" />
+      <workItem from="1606910021637" duration="957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606910266866">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.81.1920.1040@0.0.2560.1400" timestamp="1606910266866" />
+    <state x="1009" y="489" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606909787596">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1009" y="489" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/2560.81.1920.1040@0.0.2560.1400" timestamp="1606909787596" />
+    <state x="1007" y="511" key="FileChooserDialogImpl" timestamp="1606910629773">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1007" y="511" key="FileChooserDialogImpl/0.0.2560.1400/2560.81.1920.1040@0.0.2560.1400" timestamp="1606910629773" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1606910979871">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.81.1920.1040@0.0.2560.1400" timestamp="1606910979871" />
+  </component>
+</project>
